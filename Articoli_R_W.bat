@@ -1,0 +1,1 @@
+"C:\Users\UTENTE\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\UTENTE\Documents\UiPath\Acquisti\Articoli_R_W\Procedura_Acquisti_Articoli_R_W.1.0.7.nupkg"
